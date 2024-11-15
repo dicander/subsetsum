@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-static const int dbg = true;
+static const int dbg = false;
 #define dout if(dbg)cout
 
 
